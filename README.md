@@ -50,11 +50,39 @@ Machine Learning and Deep Learning
 7. Prediction: Display the classification result through the web application.
 
  Project Structure
-
-```text
 PneuVision/
 │
 ├── frontend/
 │   ├── app/
 │   ├── public/
 │   ├── package.json
+│   └── ...
+│
+├── backend/
+│   ├── main.py
+│   ├── models/
+│   └── ...
+│
+└── README.md
+
+Future Enhancements
+
+Improve model performance through experimentation.
+
+Explore advanced deep learning architectures.
+
+Implement explainable AI techniques such as Grad-CAM.
+
+Enhance prediction visualization.
+
+Evaluate performance on diverse chest X-ray datasets.
+
+Disclaimer
+
+This project is developed for educational and research purposes only. It is not intended to replace professional medical advice, diagnosis, or treatment.
+
+Author
+
+Puneetha A P
+
+GitHub: https://github.com/Puneetha16
